@@ -1,0 +1,15 @@
+.main {
+  text-align: center;
+  padding: .4rem;
+}
+
+.main tr {
+  padding: .2rem;
+  margin: .1rem;;
+}
+
+td {
+  border-bottom: 2px solid grey;
+  margin: .2rem;
+  padding: .2rem;
+}

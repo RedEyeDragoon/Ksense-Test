@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.post {
+  border-bottom: 1px solid grey;
+  padding: .2rem;
+}
